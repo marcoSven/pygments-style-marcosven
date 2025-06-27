@@ -13,16 +13,16 @@ class MarcoSvenStyle(Style):
     default_style = ""
 
     styles = {
-        Token:              "#D5BE99",
+        Token:              "#89B482",
         Comment:            "italic #918474",
         Keyword:            "#EA6962",
         Name.Function:      "#DAA758",
         Name.Class:         "#7DAEA3",
-        Name.Variable:      "#D5BE99",
+        Name.Variable:      "#A9B665",
         Name.Builtin:       "#D3869B",
         String:             "#DAA758",
         Number:             "#E78A4E",
-        Operator:           "#D5BE99",
+        Operator:           "#E78A4E",
         Generic.Heading:    "bold #D3869B",
         Generic.Subheading: "bold #D3869B",
     }

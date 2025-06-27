@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pygments-style-marcosven",
-    version="0.1.021",
+    version="0.1.022",
     packages=find_packages(),
     entry_points={
         'pygments.styles': [
